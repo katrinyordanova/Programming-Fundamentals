@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\01. Blank Receipt\Methods. Debugging and Troubleshooting Code\bin\Debug\netcoreapp2.0\01.Blank Receipt.deps.json
+C:\Users\Kati\source\repos\01. Blank Receipt\Methods. Debugging and Troubleshooting Code\bin\Debug\netcoreapp2.0\01.Blank Receipt.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Blank Receipt\Methods. Debugging and Troubleshooting Code\bin\Debug\netcoreapp2.0\01.Blank Receipt.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Blank Receipt\Methods. Debugging and Troubleshooting Code\bin\Debug\netcoreapp2.0\01.Blank Receipt.dll
+C:\Users\Kati\source\repos\01. Blank Receipt\Methods. Debugging and Troubleshooting Code\bin\Debug\netcoreapp2.0\01.Blank Receipt.pdb
+C:\Users\Kati\source\repos\01. Blank Receipt\Methods. Debugging and Troubleshooting Code\obj\Debug\netcoreapp2.0\01.Blank Receipt.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\01. Blank Receipt\Methods. Debugging and Troubleshooting Code\obj\Debug\netcoreapp2.0\01.Blank Receipt.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Blank Receipt\Methods. Debugging and Troubleshooting Code\obj\Debug\netcoreapp2.0\01.Blank Receipt.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Blank Receipt\Methods. Debugging and Troubleshooting Code\obj\Debug\netcoreapp2.0\01.Blank Receipt.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Blank Receipt\Methods. Debugging and Troubleshooting Code\obj\Debug\netcoreapp2.0\01.Blank Receipt.dll
+C:\Users\Kati\source\repos\01. Blank Receipt\Methods. Debugging and Troubleshooting Code\obj\Debug\netcoreapp2.0\01.Blank Receipt.pdb

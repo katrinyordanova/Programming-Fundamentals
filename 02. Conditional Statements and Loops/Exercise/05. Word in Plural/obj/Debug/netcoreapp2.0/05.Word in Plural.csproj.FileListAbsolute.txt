@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\05.Word in Plural\bin\Debug\netcoreapp2.0\05.Word in Plural.deps.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\05.Word in Plural\bin\Debug\netcoreapp2.0\05.Word in Plural.runtimeconfig.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\05.Word in Plural\bin\Debug\netcoreapp2.0\05.Word in Plural.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\05.Word in Plural\bin\Debug\netcoreapp2.0\05.Word in Plural.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\05.Word in Plural\bin\Debug\netcoreapp2.0\05.Word in Plural.pdb
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\05.Word in Plural\obj\Debug\netcoreapp2.0\05.Word in Plural.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\05.Word in Plural\obj\Debug\netcoreapp2.0\05.Word in Plural.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\05.Word in Plural\obj\Debug\netcoreapp2.0\05.Word in Plural.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\05.Word in Plural\obj\Debug\netcoreapp2.0\05.Word in Plural.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\05.Word in Plural\obj\Debug\netcoreapp2.0\05.Word in Plural.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\05.Word in Plural\obj\Debug\netcoreapp2.0\05.Word in Plural.pdb

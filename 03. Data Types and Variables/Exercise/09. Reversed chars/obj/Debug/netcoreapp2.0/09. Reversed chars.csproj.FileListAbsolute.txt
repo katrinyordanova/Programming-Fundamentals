@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\01. Practice Integers\09. Reversed chars\bin\Debug\netcoreapp2.0\09. Reversed chars.deps.json
+C:\Users\Kati\source\repos\01. Practice Integers\09. Reversed chars\bin\Debug\netcoreapp2.0\09. Reversed chars.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Practice Integers\09. Reversed chars\bin\Debug\netcoreapp2.0\09. Reversed chars.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Practice Integers\09. Reversed chars\bin\Debug\netcoreapp2.0\09. Reversed chars.dll
+C:\Users\Kati\source\repos\01. Practice Integers\09. Reversed chars\bin\Debug\netcoreapp2.0\09. Reversed chars.pdb
+C:\Users\Kati\source\repos\01. Practice Integers\09. Reversed chars\obj\Debug\netcoreapp2.0\09. Reversed chars.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\01. Practice Integers\09. Reversed chars\obj\Debug\netcoreapp2.0\09. Reversed chars.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\09. Reversed chars\obj\Debug\netcoreapp2.0\09. Reversed chars.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\09. Reversed chars\obj\Debug\netcoreapp2.0\09. Reversed chars.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Practice Integers\09. Reversed chars\obj\Debug\netcoreapp2.0\09. Reversed chars.dll
+C:\Users\Kati\source\repos\01. Practice Integers\09. Reversed chars\obj\Debug\netcoreapp2.0\09. Reversed chars.pdb

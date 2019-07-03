@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\06. Book Library Modification\bin\Debug\netcoreapp2.0\06. Book Library Modification.deps.json
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\06. Book Library Modification\bin\Debug\netcoreapp2.0\06. Book Library Modification.runtimeconfig.json
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\06. Book Library Modification\bin\Debug\netcoreapp2.0\06. Book Library Modification.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\06. Book Library Modification\bin\Debug\netcoreapp2.0\06. Book Library Modification.dll
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\06. Book Library Modification\bin\Debug\netcoreapp2.0\06. Book Library Modification.pdb
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\06. Book Library Modification\obj\Debug\netcoreapp2.0\06. Book Library Modification.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\06. Book Library Modification\obj\Debug\netcoreapp2.0\06. Book Library Modification.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\06. Book Library Modification\obj\Debug\netcoreapp2.0\06. Book Library Modification.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\06. Book Library Modification\obj\Debug\netcoreapp2.0\06. Book Library Modification.dll
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\06. Book Library Modification\obj\Debug\netcoreapp2.0\06. Book Library Modification.pdb

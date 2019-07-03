@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\Intro More Exercises\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.deps.json
+C:\Users\Kati\source\repos\Intro More Exercises\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.runtimeconfig.json
+C:\Users\Kati\source\repos\Intro More Exercises\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Intro More Exercises\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.dll
+C:\Users\Kati\source\repos\Intro More Exercises\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.pdb
+C:\Users\Kati\source\repos\Intro More Exercises\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\Intro More Exercises\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Intro More Exercises\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Intro More Exercises\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Intro More Exercises\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.dll
+C:\Users\Kati\source\repos\Intro More Exercises\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.pdb

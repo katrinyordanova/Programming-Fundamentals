@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\01. Practice Integers\02. Practice Floating Points\bin\Debug\netcoreapp2.0\02. Practice Floating Points.deps.json
+C:\Users\Kati\source\repos\01. Practice Integers\02. Practice Floating Points\bin\Debug\netcoreapp2.0\02. Practice Floating Points.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Practice Integers\02. Practice Floating Points\bin\Debug\netcoreapp2.0\02. Practice Floating Points.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Practice Integers\02. Practice Floating Points\bin\Debug\netcoreapp2.0\02. Practice Floating Points.dll
+C:\Users\Kati\source\repos\01. Practice Integers\02. Practice Floating Points\bin\Debug\netcoreapp2.0\02. Practice Floating Points.pdb
+C:\Users\Kati\source\repos\01. Practice Integers\02. Practice Floating Points\obj\Debug\netcoreapp2.0\02. Practice Floating Points.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\01. Practice Integers\02. Practice Floating Points\obj\Debug\netcoreapp2.0\02. Practice Floating Points.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\02. Practice Floating Points\obj\Debug\netcoreapp2.0\02. Practice Floating Points.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\02. Practice Floating Points\obj\Debug\netcoreapp2.0\02. Practice Floating Points.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Practice Integers\02. Practice Floating Points\obj\Debug\netcoreapp2.0\02. Practice Floating Points.dll
+C:\Users\Kati\source\repos\01. Practice Integers\02. Practice Floating Points\obj\Debug\netcoreapp2.0\02. Practice Floating Points.pdb

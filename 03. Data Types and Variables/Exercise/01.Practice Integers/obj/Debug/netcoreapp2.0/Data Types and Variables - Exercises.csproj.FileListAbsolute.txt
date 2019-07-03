@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\01. Practice Integers\Data Types and Variables - Exercises\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises.deps.json
+C:\Users\Kati\source\repos\01. Practice Integers\Data Types and Variables - Exercises\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Practice Integers\Data Types and Variables - Exercises\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Practice Integers\Data Types and Variables - Exercises\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises.dll
+C:\Users\Kati\source\repos\01. Practice Integers\Data Types and Variables - Exercises\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises.pdb
+C:\Users\Kati\source\repos\01. Practice Integers\Data Types and Variables - Exercises\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\01. Practice Integers\Data Types and Variables - Exercises\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\Data Types and Variables - Exercises\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\Data Types and Variables - Exercises\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Practice Integers\Data Types and Variables - Exercises\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises.dll
+C:\Users\Kati\source\repos\01. Practice Integers\Data Types and Variables - Exercises\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises.pdb

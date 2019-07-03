@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\bin\Debug\netcoreapp2.0\01.Centuries to Minutes.deps.json
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\bin\Debug\netcoreapp2.0\01.Centuries to Minutes.runtimeconfig.json
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\bin\Debug\netcoreapp2.0\01.Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\bin\Debug\netcoreapp2.0\01.Centuries to Minutes.dll
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\bin\Debug\netcoreapp2.0\01.Centuries to Minutes.pdb
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\obj\Debug\netcoreapp2.0\01.Centuries to Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\obj\Debug\netcoreapp2.0\01.Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\obj\Debug\netcoreapp2.0\01.Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\obj\Debug\netcoreapp2.0\01.Centuries to Minutes.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\obj\Debug\netcoreapp2.0\01.Centuries to Minutes.dll
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\obj\Debug\netcoreapp2.0\01.Centuries to Minutes.pdb

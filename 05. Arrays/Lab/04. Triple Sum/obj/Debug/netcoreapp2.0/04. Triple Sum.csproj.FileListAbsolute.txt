@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp2.0\04. Triple Sum.deps.json
+C:\Users\Kati\source\repos\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp2.0\04. Triple Sum.runtimeconfig.json
+C:\Users\Kati\source\repos\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp2.0\04. Triple Sum.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp2.0\04. Triple Sum.dll
+C:\Users\Kati\source\repos\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp2.0\04. Triple Sum.pdb
+C:\Users\Kati\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp2.0\04. Triple Sum.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp2.0\04. Triple Sum.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp2.0\04. Triple Sum.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp2.0\04. Triple Sum.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp2.0\04. Triple Sum.dll
+C:\Users\Kati\source\repos\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp2.0\04. Triple Sum.pdb

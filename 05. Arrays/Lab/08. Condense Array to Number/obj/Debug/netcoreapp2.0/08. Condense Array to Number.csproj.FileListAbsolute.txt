@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.deps.json
+C:\Users\Kati\source\repos\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.runtimeconfig.json
+C:\Users\Kati\source\repos\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.dll
+C:\Users\Kati\source\repos\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.pdb
+C:\Users\Kati\source\repos\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.dll
+C:\Users\Kati\source\repos\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.pdb

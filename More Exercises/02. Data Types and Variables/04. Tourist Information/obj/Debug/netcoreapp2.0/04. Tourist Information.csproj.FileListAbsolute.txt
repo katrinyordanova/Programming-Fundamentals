@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\01. Type Boundaries\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.deps.json
+C:\Users\Kati\source\repos\01. Type Boundaries\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Type Boundaries\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Type Boundaries\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.dll
+C:\Users\Kati\source\repos\01. Type Boundaries\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.pdb
+C:\Users\Kati\source\repos\01. Type Boundaries\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\01. Type Boundaries\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Type Boundaries\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Type Boundaries\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Type Boundaries\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.dll
+C:\Users\Kati\source\repos\01. Type Boundaries\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.pdb

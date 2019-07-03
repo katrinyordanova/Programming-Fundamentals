@@ -1,0 +1,11 @@
+c:\users\kati\source\repos\Lists-Exercises\05. Array Manipulator\bin\Debug\netcoreapp2.0\05. Array Manipulator.deps.json
+c:\users\kati\source\repos\Lists-Exercises\05. Array Manipulator\bin\Debug\netcoreapp2.0\05. Array Manipulator.runtimeconfig.json
+c:\users\kati\source\repos\Lists-Exercises\05. Array Manipulator\bin\Debug\netcoreapp2.0\05. Array Manipulator.runtimeconfig.dev.json
+c:\users\kati\source\repos\Lists-Exercises\05. Array Manipulator\bin\Debug\netcoreapp2.0\05. Array Manipulator.dll
+c:\users\kati\source\repos\Lists-Exercises\05. Array Manipulator\bin\Debug\netcoreapp2.0\05. Array Manipulator.pdb
+c:\users\kati\source\repos\Lists-Exercises\05. Array Manipulator\obj\Debug\netcoreapp2.0\05. Array Manipulator.csprojResolveAssemblyReference.cache
+c:\users\kati\source\repos\Lists-Exercises\05. Array Manipulator\obj\Debug\netcoreapp2.0\05. Array Manipulator.csproj.CoreCompileInputs.cache
+c:\users\kati\source\repos\Lists-Exercises\05. Array Manipulator\obj\Debug\netcoreapp2.0\05. Array Manipulator.AssemblyInfoInputs.cache
+c:\users\kati\source\repos\Lists-Exercises\05. Array Manipulator\obj\Debug\netcoreapp2.0\05. Array Manipulator.AssemblyInfo.cs
+c:\users\kati\source\repos\Lists-Exercises\05. Array Manipulator\obj\Debug\netcoreapp2.0\05. Array Manipulator.dll
+c:\users\kati\source\repos\Lists-Exercises\05. Array Manipulator\obj\Debug\netcoreapp2.0\05. Array Manipulator.pdb

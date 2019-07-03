@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\01. Blank Receipt\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.deps.json
+C:\Users\Kati\source\repos\01. Blank Receipt\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Blank Receipt\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Blank Receipt\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.dll
+C:\Users\Kati\source\repos\01. Blank Receipt\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.pdb
+C:\Users\Kati\source\repos\01. Blank Receipt\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\01. Blank Receipt\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Blank Receipt\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Blank Receipt\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Blank Receipt\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.dll
+C:\Users\Kati\source\repos\01. Blank Receipt\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.pdb

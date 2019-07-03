@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\03.Safe Manipulation\obj\Debug\netcoreapp2.0\03.Safe Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\03.Safe Manipulation\obj\Debug\netcoreapp2.0\03.Safe Manipulation.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\03.Safe Manipulation\obj\Debug\netcoreapp2.0\03.Safe Manipulation.AssemblyInfo.cs
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\03.Safe Manipulation\bin\Debug\netcoreapp2.0\03.Safe Manipulation.deps.json
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\03.Safe Manipulation\bin\Debug\netcoreapp2.0\03.Safe Manipulation.runtimeconfig.json
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\03.Safe Manipulation\bin\Debug\netcoreapp2.0\03.Safe Manipulation.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\03.Safe Manipulation\bin\Debug\netcoreapp2.0\03.Safe Manipulation.dll
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\03.Safe Manipulation\bin\Debug\netcoreapp2.0\03.Safe Manipulation.pdb
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\03.Safe Manipulation\obj\Debug\netcoreapp2.0\03.Safe Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\03.Safe Manipulation\obj\Debug\netcoreapp2.0\03.Safe Manipulation.dll
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\03.Safe Manipulation\obj\Debug\netcoreapp2.0\03.Safe Manipulation.pdb

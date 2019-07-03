@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\01. Blank Receipt\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.deps.json
+C:\Users\Kati\source\repos\01. Blank Receipt\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Blank Receipt\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Blank Receipt\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.dll
+C:\Users\Kati\source\repos\01. Blank Receipt\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.pdb
+C:\Users\Kati\source\repos\01. Blank Receipt\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Blank Receipt\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Blank Receipt\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Blank Receipt\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.dll
+C:\Users\Kati\source\repos\01. Blank Receipt\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.pdb

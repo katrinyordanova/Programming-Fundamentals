@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\bin\Debug\netcoreapp2.0\Intro More Exercises.deps.json
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\bin\Debug\netcoreapp2.0\Intro More Exercises.runtimeconfig.json
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\bin\Debug\netcoreapp2.0\Intro More Exercises.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\bin\Debug\netcoreapp2.0\Intro More Exercises.dll
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\bin\Debug\netcoreapp2.0\Intro More Exercises.pdb
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\obj\Debug\netcoreapp2.0\Intro More Exercises.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\obj\Debug\netcoreapp2.0\Intro More Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\obj\Debug\netcoreapp2.0\Intro More Exercises.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\obj\Debug\netcoreapp2.0\Intro More Exercises.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\obj\Debug\netcoreapp2.0\Intro More Exercises.dll
+C:\Users\Kati\source\repos\Intro More Exercises\Intro More Exercises\obj\Debug\netcoreapp2.0\Intro More Exercises.pdb

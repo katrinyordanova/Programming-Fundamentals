@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\Methods,Debugging,Troubleshooting Code-Ex\18.Sequence of Commands\bin\Debug\netcoreapp2.0\18.Sequence of Commands.deps.json
+C:\Users\Kati\source\repos\Methods,Debugging,Troubleshooting Code-Ex\18.Sequence of Commands\bin\Debug\netcoreapp2.0\18.Sequence of Commands.runtimeconfig.json
+C:\Users\Kati\source\repos\Methods,Debugging,Troubleshooting Code-Ex\18.Sequence of Commands\bin\Debug\netcoreapp2.0\18.Sequence of Commands.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Methods,Debugging,Troubleshooting Code-Ex\18.Sequence of Commands\bin\Debug\netcoreapp2.0\18.Sequence of Commands.dll
+C:\Users\Kati\source\repos\Methods,Debugging,Troubleshooting Code-Ex\18.Sequence of Commands\bin\Debug\netcoreapp2.0\18.Sequence of Commands.pdb
+C:\Users\Kati\source\repos\Methods,Debugging,Troubleshooting Code-Ex\18.Sequence of Commands\obj\Debug\netcoreapp2.0\18.Sequence of Commands.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Methods,Debugging,Troubleshooting Code-Ex\18.Sequence of Commands\obj\Debug\netcoreapp2.0\18.Sequence of Commands.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Methods,Debugging,Troubleshooting Code-Ex\18.Sequence of Commands\obj\Debug\netcoreapp2.0\18.Sequence of Commands.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Methods,Debugging,Troubleshooting Code-Ex\18.Sequence of Commands\obj\Debug\netcoreapp2.0\18.Sequence of Commands.dll
+C:\Users\Kati\source\repos\Methods,Debugging,Troubleshooting Code-Ex\18.Sequence of Commands\obj\Debug\netcoreapp2.0\18.Sequence of Commands.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\02. Manipulate Array\bin\Debug\netcoreapp2.0\02. Manipulate Array.deps.json
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\02. Manipulate Array\bin\Debug\netcoreapp2.0\02. Manipulate Array.runtimeconfig.json
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\02. Manipulate Array\bin\Debug\netcoreapp2.0\02. Manipulate Array.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\02. Manipulate Array\bin\Debug\netcoreapp2.0\02. Manipulate Array.dll
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\02. Manipulate Array\bin\Debug\netcoreapp2.0\02. Manipulate Array.pdb
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\02. Manipulate Array\obj\Debug\netcoreapp2.0\02. Manipulate Array.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\02. Manipulate Array\obj\Debug\netcoreapp2.0\02. Manipulate Array.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\02. Manipulate Array\obj\Debug\netcoreapp2.0\02. Manipulate Array.AssemblyInfo.cs
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\02. Manipulate Array\obj\Debug\netcoreapp2.0\02. Manipulate Array.dll
+C:\Users\Kati\source\repos\More Exercises-Arrays and Methods\02. Manipulate Array\obj\Debug\netcoreapp2.0\02. Manipulate Array.pdb

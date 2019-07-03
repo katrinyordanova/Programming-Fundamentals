@@ -1,0 +1,10 @@
+c:\users\kati\source\repos\More Exercises-Strings and Regular\05. Only Letters\bin\Debug\netcoreapp2.0\05. Only Letters.deps.json
+c:\users\kati\source\repos\More Exercises-Strings and Regular\05. Only Letters\bin\Debug\netcoreapp2.0\05. Only Letters.runtimeconfig.json
+c:\users\kati\source\repos\More Exercises-Strings and Regular\05. Only Letters\bin\Debug\netcoreapp2.0\05. Only Letters.runtimeconfig.dev.json
+c:\users\kati\source\repos\More Exercises-Strings and Regular\05. Only Letters\bin\Debug\netcoreapp2.0\05. Only Letters.dll
+c:\users\kati\source\repos\More Exercises-Strings and Regular\05. Only Letters\bin\Debug\netcoreapp2.0\05. Only Letters.pdb
+c:\users\kati\source\repos\More Exercises-Strings and Regular\05. Only Letters\obj\Debug\netcoreapp2.0\05. Only Letters.csproj.CoreCompileInputs.cache
+c:\users\kati\source\repos\More Exercises-Strings and Regular\05. Only Letters\obj\Debug\netcoreapp2.0\05. Only Letters.AssemblyInfoInputs.cache
+c:\users\kati\source\repos\More Exercises-Strings and Regular\05. Only Letters\obj\Debug\netcoreapp2.0\05. Only Letters.AssemblyInfo.cs
+c:\users\kati\source\repos\More Exercises-Strings and Regular\05. Only Letters\obj\Debug\netcoreapp2.0\05. Only Letters.dll
+c:\users\kati\source\repos\More Exercises-Strings and Regular\05. Only Letters\obj\Debug\netcoreapp2.0\05. Only Letters.pdb

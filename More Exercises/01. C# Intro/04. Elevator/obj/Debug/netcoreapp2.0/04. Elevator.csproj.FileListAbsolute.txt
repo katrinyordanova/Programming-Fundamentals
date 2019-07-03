@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\Intro More Exercises\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.deps.json
+C:\Users\Kati\source\repos\Intro More Exercises\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.runtimeconfig.json
+C:\Users\Kati\source\repos\Intro More Exercises\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Intro More Exercises\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.dll
+C:\Users\Kati\source\repos\Intro More Exercises\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.pdb
+C:\Users\Kati\source\repos\Intro More Exercises\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Intro More Exercises\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Intro More Exercises\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Intro More Exercises\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.dll
+C:\Users\Kati\source\repos\Intro More Exercises\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\01. Practice Integers\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.deps.json
+C:\Users\Kati\source\repos\01. Practice Integers\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Practice Integers\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Practice Integers\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.dll
+C:\Users\Kati\source\repos\01. Practice Integers\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.pdb
+C:\Users\Kati\source\repos\01. Practice Integers\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Practice Integers\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.dll
+C:\Users\Kati\source\repos\01. Practice Integers\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.pdb

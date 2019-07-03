@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\netcoreapp2.0\02. Passed or Failed.deps.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\netcoreapp2.0\02. Passed or Failed.runtimeconfig.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\netcoreapp2.0\02. Passed or Failed.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\netcoreapp2.0\02. Passed or Failed.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\netcoreapp2.0\02. Passed or Failed.pdb
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\netcoreapp2.0\02. Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\netcoreapp2.0\02. Passed or Failed.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\netcoreapp2.0\02. Passed or Failed.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\netcoreapp2.0\02. Passed or Failed.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\netcoreapp2.0\02. Passed or Failed.pdb

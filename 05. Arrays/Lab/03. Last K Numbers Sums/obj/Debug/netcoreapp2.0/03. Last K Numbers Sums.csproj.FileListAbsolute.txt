@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\Arrays - Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.deps.json
+C:\Users\Kati\source\repos\Arrays - Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.runtimeconfig.json
+C:\Users\Kati\source\repos\Arrays - Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Arrays - Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.dll
+C:\Users\Kati\source\repos\Arrays - Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\03. Last K Numbers Sums.pdb
+C:\Users\Kati\source\repos\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.dll
+C:\Users\Kati\source\repos\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\03. Last K Numbers Sums.pdb

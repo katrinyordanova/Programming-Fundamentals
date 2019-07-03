@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\01. Practice Integers\18. Different Integers Size\bin\Debug\netcoreapp2.0\18. Different Integers Size.deps.json
+C:\Users\Kati\source\repos\01. Practice Integers\18. Different Integers Size\bin\Debug\netcoreapp2.0\18. Different Integers Size.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Practice Integers\18. Different Integers Size\bin\Debug\netcoreapp2.0\18. Different Integers Size.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Practice Integers\18. Different Integers Size\bin\Debug\netcoreapp2.0\18. Different Integers Size.dll
+C:\Users\Kati\source\repos\01. Practice Integers\18. Different Integers Size\bin\Debug\netcoreapp2.0\18. Different Integers Size.pdb
+C:\Users\Kati\source\repos\01. Practice Integers\18. Different Integers Size\obj\Debug\netcoreapp2.0\18. Different Integers Size.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\01. Practice Integers\18. Different Integers Size\obj\Debug\netcoreapp2.0\18. Different Integers Size.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\18. Different Integers Size\obj\Debug\netcoreapp2.0\18. Different Integers Size.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\18. Different Integers Size\obj\Debug\netcoreapp2.0\18. Different Integers Size.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Practice Integers\18. Different Integers Size\obj\Debug\netcoreapp2.0\18. Different Integers Size.dll
+C:\Users\Kati\source\repos\01. Practice Integers\18. Different Integers Size\obj\Debug\netcoreapp2.0\18. Different Integers Size.pdb

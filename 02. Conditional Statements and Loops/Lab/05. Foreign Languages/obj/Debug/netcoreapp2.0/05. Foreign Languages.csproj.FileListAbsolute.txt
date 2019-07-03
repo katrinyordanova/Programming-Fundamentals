@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\netcoreapp2.0\05. Foreign Languages.deps.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\netcoreapp2.0\05. Foreign Languages.runtimeconfig.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\netcoreapp2.0\05. Foreign Languages.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\netcoreapp2.0\05. Foreign Languages.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\netcoreapp2.0\05. Foreign Languages.pdb
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\netcoreapp2.0\05. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\netcoreapp2.0\05. Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\netcoreapp2.0\05. Foreign Languages.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\netcoreapp2.0\05. Foreign Languages.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\netcoreapp2.0\05. Foreign Languages.pdb

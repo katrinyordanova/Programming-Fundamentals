@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\01. Type Boundaries\05. Weather Forecast\bin\Debug\netcoreapp2.0\05. Weather Forecast.deps.json
+C:\Users\Kati\source\repos\01. Type Boundaries\05. Weather Forecast\bin\Debug\netcoreapp2.0\05. Weather Forecast.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Type Boundaries\05. Weather Forecast\bin\Debug\netcoreapp2.0\05. Weather Forecast.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Type Boundaries\05. Weather Forecast\bin\Debug\netcoreapp2.0\05. Weather Forecast.dll
+C:\Users\Kati\source\repos\01. Type Boundaries\05. Weather Forecast\bin\Debug\netcoreapp2.0\05. Weather Forecast.pdb
+C:\Users\Kati\source\repos\01. Type Boundaries\05. Weather Forecast\obj\Debug\netcoreapp2.0\05. Weather Forecast.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\01. Type Boundaries\05. Weather Forecast\obj\Debug\netcoreapp2.0\05. Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Type Boundaries\05. Weather Forecast\obj\Debug\netcoreapp2.0\05. Weather Forecast.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Type Boundaries\05. Weather Forecast\obj\Debug\netcoreapp2.0\05. Weather Forecast.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Type Boundaries\05. Weather Forecast\obj\Debug\netcoreapp2.0\05. Weather Forecast.dll
+C:\Users\Kati\source\repos\01. Type Boundaries\05. Weather Forecast\obj\Debug\netcoreapp2.0\05. Weather Forecast.pdb

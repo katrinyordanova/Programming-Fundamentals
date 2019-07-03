@@ -1,0 +1,11 @@
+c:\users\kati\source\repos\Regex-Lab\02. Match Phone Number\bin\Debug\netcoreapp2.0\02. Match Phone Number.deps.json
+c:\users\kati\source\repos\Regex-Lab\02. Match Phone Number\bin\Debug\netcoreapp2.0\02. Match Phone Number.runtimeconfig.json
+c:\users\kati\source\repos\Regex-Lab\02. Match Phone Number\bin\Debug\netcoreapp2.0\02. Match Phone Number.runtimeconfig.dev.json
+c:\users\kati\source\repos\Regex-Lab\02. Match Phone Number\bin\Debug\netcoreapp2.0\02. Match Phone Number.dll
+c:\users\kati\source\repos\Regex-Lab\02. Match Phone Number\bin\Debug\netcoreapp2.0\02. Match Phone Number.pdb
+c:\users\kati\source\repos\Regex-Lab\02. Match Phone Number\obj\Debug\netcoreapp2.0\02. Match Phone Number.csprojResolveAssemblyReference.cache
+c:\users\kati\source\repos\Regex-Lab\02. Match Phone Number\obj\Debug\netcoreapp2.0\02. Match Phone Number.csproj.CoreCompileInputs.cache
+c:\users\kati\source\repos\Regex-Lab\02. Match Phone Number\obj\Debug\netcoreapp2.0\02. Match Phone Number.AssemblyInfoInputs.cache
+c:\users\kati\source\repos\Regex-Lab\02. Match Phone Number\obj\Debug\netcoreapp2.0\02. Match Phone Number.AssemblyInfo.cs
+c:\users\kati\source\repos\Regex-Lab\02. Match Phone Number\obj\Debug\netcoreapp2.0\02. Match Phone Number.dll
+c:\users\kati\source\repos\Regex-Lab\02. Match Phone Number\obj\Debug\netcoreapp2.0\02. Match Phone Number.pdb

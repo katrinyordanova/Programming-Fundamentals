@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\14.Magic Letter\bin\Debug\netcoreapp2.0\14.Magic Letter.deps.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\14.Magic Letter\bin\Debug\netcoreapp2.0\14.Magic Letter.runtimeconfig.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\14.Magic Letter\bin\Debug\netcoreapp2.0\14.Magic Letter.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\14.Magic Letter\bin\Debug\netcoreapp2.0\14.Magic Letter.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\14.Magic Letter\bin\Debug\netcoreapp2.0\14.Magic Letter.pdb
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\14.Magic Letter\obj\Debug\netcoreapp2.0\14.Magic Letter.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\14.Magic Letter\obj\Debug\netcoreapp2.0\14.Magic Letter.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\14.Magic Letter\obj\Debug\netcoreapp2.0\14.Magic Letter.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\14.Magic Letter\obj\Debug\netcoreapp2.0\14.Magic Letter.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\14.Magic Letter\obj\Debug\netcoreapp2.0\14.Magic Letter.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\14.Magic Letter\obj\Debug\netcoreapp2.0\14.Magic Letter.pdb

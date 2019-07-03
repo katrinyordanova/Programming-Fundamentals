@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\More Exercises-Objects, Classes, Files and Exceptions\01. Order by Age\bin\Debug\netcoreapp2.0\01. Order by Age.deps.json
+C:\Users\Kati\source\repos\More Exercises-Objects, Classes, Files and Exceptions\01. Order by Age\bin\Debug\netcoreapp2.0\01. Order by Age.runtimeconfig.json
+C:\Users\Kati\source\repos\More Exercises-Objects, Classes, Files and Exceptions\01. Order by Age\bin\Debug\netcoreapp2.0\01. Order by Age.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\More Exercises-Objects, Classes, Files and Exceptions\01. Order by Age\bin\Debug\netcoreapp2.0\01. Order by Age.dll
+C:\Users\Kati\source\repos\More Exercises-Objects, Classes, Files and Exceptions\01. Order by Age\bin\Debug\netcoreapp2.0\01. Order by Age.pdb
+C:\Users\Kati\source\repos\More Exercises-Objects, Classes, Files and Exceptions\01. Order by Age\obj\Debug\netcoreapp2.0\01. Order by Age.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\More Exercises-Objects, Classes, Files and Exceptions\01. Order by Age\obj\Debug\netcoreapp2.0\01. Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\More Exercises-Objects, Classes, Files and Exceptions\01. Order by Age\obj\Debug\netcoreapp2.0\01. Order by Age.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\More Exercises-Objects, Classes, Files and Exceptions\01. Order by Age\obj\Debug\netcoreapp2.0\01. Order by Age.AssemblyInfo.cs
+C:\Users\Kati\source\repos\More Exercises-Objects, Classes, Files and Exceptions\01. Order by Age\obj\Debug\netcoreapp2.0\01. Order by Age.dll
+C:\Users\Kati\source\repos\More Exercises-Objects, Classes, Files and Exceptions\01. Order by Age\obj\Debug\netcoreapp2.0\01. Order by Age.pdb

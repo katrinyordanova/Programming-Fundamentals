@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\03. Miles to Kilometerss\bin\Debug\netcoreapp2.0\03. Miles to Kilometerss.deps.json
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\03. Miles to Kilometerss\bin\Debug\netcoreapp2.0\03. Miles to Kilometerss.runtimeconfig.json
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\03. Miles to Kilometerss\bin\Debug\netcoreapp2.0\03. Miles to Kilometerss.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\03. Miles to Kilometerss\bin\Debug\netcoreapp2.0\03. Miles to Kilometerss.dll
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\03. Miles to Kilometerss\bin\Debug\netcoreapp2.0\03. Miles to Kilometerss.pdb
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\03. Miles to Kilometerss\obj\Debug\netcoreapp2.0\03. Miles to Kilometerss.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\03. Miles to Kilometerss\obj\Debug\netcoreapp2.0\03. Miles to Kilometerss.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\03. Miles to Kilometerss\obj\Debug\netcoreapp2.0\03. Miles to Kilometerss.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\03. Miles to Kilometerss\obj\Debug\netcoreapp2.0\03. Miles to Kilometerss.dll
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\03. Miles to Kilometerss\obj\Debug\netcoreapp2.0\03. Miles to Kilometerss.pdb

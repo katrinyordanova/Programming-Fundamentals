@@ -1,0 +1,11 @@
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.csprojResolveAssemblyReference.cache
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.csproj.CoreCompileInputs.cache
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.AssemblyInfoInputs.cache
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.AssemblyInfo.cs
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.deps.json
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.runtimeconfig.json
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.runtimeconfig.dev.json
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.dll
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.pdb
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.dll
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.pdb

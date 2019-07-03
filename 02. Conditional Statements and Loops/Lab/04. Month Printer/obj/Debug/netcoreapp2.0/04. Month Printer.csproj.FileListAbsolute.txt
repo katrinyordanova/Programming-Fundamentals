@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\04. Month Printer\bin\Debug\netcoreapp2.0\04. Month Printer.deps.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\04. Month Printer\bin\Debug\netcoreapp2.0\04. Month Printer.runtimeconfig.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\04. Month Printer\bin\Debug\netcoreapp2.0\04. Month Printer.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\04. Month Printer\bin\Debug\netcoreapp2.0\04. Month Printer.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\04. Month Printer\bin\Debug\netcoreapp2.0\04. Month Printer.pdb
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\04. Month Printer\obj\Debug\netcoreapp2.0\04. Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\04. Month Printer\obj\Debug\netcoreapp2.0\04. Month Printer.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\04. Month Printer\obj\Debug\netcoreapp2.0\04. Month Printer.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\04. Month Printer\obj\Debug\netcoreapp2.0\04. Month Printer.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\04. Month Printer\obj\Debug\netcoreapp2.0\04. Month Printer.pdb

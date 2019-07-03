@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\01. Practice Integers\15. Fast Prime Checker\bin\Debug\netcoreapp2.0\15. Fast Prime Checker.deps.json
+C:\Users\Kati\source\repos\01. Practice Integers\15. Fast Prime Checker\bin\Debug\netcoreapp2.0\15. Fast Prime Checker.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Practice Integers\15. Fast Prime Checker\bin\Debug\netcoreapp2.0\15. Fast Prime Checker.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Practice Integers\15. Fast Prime Checker\bin\Debug\netcoreapp2.0\15. Fast Prime Checker.dll
+C:\Users\Kati\source\repos\01. Practice Integers\15. Fast Prime Checker\bin\Debug\netcoreapp2.0\15. Fast Prime Checker.pdb
+C:\Users\Kati\source\repos\01. Practice Integers\15. Fast Prime Checker\obj\Debug\netcoreapp2.0\15. Fast Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\15. Fast Prime Checker\obj\Debug\netcoreapp2.0\15. Fast Prime Checker.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\15. Fast Prime Checker\obj\Debug\netcoreapp2.0\15. Fast Prime Checker.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Practice Integers\15. Fast Prime Checker\obj\Debug\netcoreapp2.0\15. Fast Prime Checker.dll
+C:\Users\Kati\source\repos\01. Practice Integers\15. Fast Prime Checker\obj\Debug\netcoreapp2.0\15. Fast Prime Checker.pdb

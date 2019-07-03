@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\05. Book Library\bin\Debug\netcoreapp2.0\05. Book Library.deps.json
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\05. Book Library\bin\Debug\netcoreapp2.0\05. Book Library.runtimeconfig.json
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\05. Book Library\bin\Debug\netcoreapp2.0\05. Book Library.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\05. Book Library\bin\Debug\netcoreapp2.0\05. Book Library.dll
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\05. Book Library\bin\Debug\netcoreapp2.0\05. Book Library.pdb
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp2.0\05. Book Library.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp2.0\05. Book Library.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp2.0\05. Book Library.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp2.0\05. Book Library.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp2.0\05. Book Library.dll
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\05. Book Library\obj\Debug\netcoreapp2.0\05. Book Library.pdb

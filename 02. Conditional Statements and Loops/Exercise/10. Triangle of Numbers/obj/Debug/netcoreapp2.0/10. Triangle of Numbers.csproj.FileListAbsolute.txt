@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.deps.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.runtimeconfig.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.pdb
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.pdb

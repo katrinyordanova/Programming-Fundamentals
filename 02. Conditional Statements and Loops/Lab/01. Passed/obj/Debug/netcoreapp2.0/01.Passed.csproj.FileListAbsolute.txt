@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\bin\Debug\netcoreapp2.0\01.Passed.deps.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\bin\Debug\netcoreapp2.0\01.Passed.runtimeconfig.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\bin\Debug\netcoreapp2.0\01.Passed.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\bin\Debug\netcoreapp2.0\01.Passed.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\bin\Debug\netcoreapp2.0\01.Passed.pdb
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\obj\Debug\netcoreapp2.0\01.Passed.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\obj\Debug\netcoreapp2.0\01.Passed.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\obj\Debug\netcoreapp2.0\01.Passed.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\obj\Debug\netcoreapp2.0\01.Passed.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\obj\Debug\netcoreapp2.0\01.Passed.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops - Lab\Conditional Statements and Loops - Lab\obj\Debug\netcoreapp2.0\01.Passed.pdb

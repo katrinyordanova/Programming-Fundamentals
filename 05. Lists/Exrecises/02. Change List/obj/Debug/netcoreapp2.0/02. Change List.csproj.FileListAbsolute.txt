@@ -1,0 +1,11 @@
+c:\users\kati\source\repos\Lists-Exercises\02. Change List\bin\Debug\netcoreapp2.0\02. Change List.deps.json
+c:\users\kati\source\repos\Lists-Exercises\02. Change List\bin\Debug\netcoreapp2.0\02. Change List.runtimeconfig.json
+c:\users\kati\source\repos\Lists-Exercises\02. Change List\bin\Debug\netcoreapp2.0\02. Change List.runtimeconfig.dev.json
+c:\users\kati\source\repos\Lists-Exercises\02. Change List\bin\Debug\netcoreapp2.0\02. Change List.dll
+c:\users\kati\source\repos\Lists-Exercises\02. Change List\bin\Debug\netcoreapp2.0\02. Change List.pdb
+c:\users\kati\source\repos\Lists-Exercises\02. Change List\obj\Debug\netcoreapp2.0\02. Change List.csprojResolveAssemblyReference.cache
+c:\users\kati\source\repos\Lists-Exercises\02. Change List\obj\Debug\netcoreapp2.0\02. Change List.csproj.CoreCompileInputs.cache
+c:\users\kati\source\repos\Lists-Exercises\02. Change List\obj\Debug\netcoreapp2.0\02. Change List.AssemblyInfoInputs.cache
+c:\users\kati\source\repos\Lists-Exercises\02. Change List\obj\Debug\netcoreapp2.0\02. Change List.AssemblyInfo.cs
+c:\users\kati\source\repos\Lists-Exercises\02. Change List\obj\Debug\netcoreapp2.0\02. Change List.dll
+c:\users\kati\source\repos\Lists-Exercises\02. Change List\obj\Debug\netcoreapp2.0\02. Change List.pdb

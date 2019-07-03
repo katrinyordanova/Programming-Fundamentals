@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\Intro and Syntax Exercises\bin\Debug\netcoreapp2.0\01. Debit Card Number.deps.json
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\Intro and Syntax Exercises\bin\Debug\netcoreapp2.0\01. Debit Card Number.runtimeconfig.json
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\Intro and Syntax Exercises\bin\Debug\netcoreapp2.0\01. Debit Card Number.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\Intro and Syntax Exercises\bin\Debug\netcoreapp2.0\01. Debit Card Number.dll
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\Intro and Syntax Exercises\bin\Debug\netcoreapp2.0\01. Debit Card Number.pdb
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\Intro and Syntax Exercises\obj\Debug\netcoreapp2.0\01. Debit Card Number.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\Intro and Syntax Exercises\obj\Debug\netcoreapp2.0\01. Debit Card Number.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\Intro and Syntax Exercises\obj\Debug\netcoreapp2.0\01. Debit Card Number.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\Intro and Syntax Exercises\obj\Debug\netcoreapp2.0\01. Debit Card Number.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\Intro and Syntax Exercises\obj\Debug\netcoreapp2.0\01. Debit Card Number.dll
+C:\Users\Kati\source\repos\Intro and Syntax Exercises\Intro and Syntax Exercises\obj\Debug\netcoreapp2.0\01. Debit Card Number.pdb

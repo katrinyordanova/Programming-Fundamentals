@@ -1,0 +1,11 @@
+c:\users\kati\source\repos\Arrays - Exercises\09. Index of Letters\bin\Debug\netcoreapp2.0\09. Index of Letters.deps.json
+c:\users\kati\source\repos\Arrays - Exercises\09. Index of Letters\bin\Debug\netcoreapp2.0\09. Index of Letters.runtimeconfig.json
+c:\users\kati\source\repos\Arrays - Exercises\09. Index of Letters\bin\Debug\netcoreapp2.0\09. Index of Letters.runtimeconfig.dev.json
+c:\users\kati\source\repos\Arrays - Exercises\09. Index of Letters\bin\Debug\netcoreapp2.0\09. Index of Letters.dll
+c:\users\kati\source\repos\Arrays - Exercises\09. Index of Letters\bin\Debug\netcoreapp2.0\09. Index of Letters.pdb
+c:\users\kati\source\repos\Arrays - Exercises\09. Index of Letters\obj\Debug\netcoreapp2.0\09. Index of Letters.csproj.CoreCompileInputs.cache
+c:\users\kati\source\repos\Arrays - Exercises\09. Index of Letters\obj\Debug\netcoreapp2.0\09. Index of Letters.AssemblyInfoInputs.cache
+c:\users\kati\source\repos\Arrays - Exercises\09. Index of Letters\obj\Debug\netcoreapp2.0\09. Index of Letters.AssemblyInfo.cs
+c:\users\kati\source\repos\Arrays - Exercises\09. Index of Letters\obj\Debug\netcoreapp2.0\09. Index of Letters.dll
+c:\users\kati\source\repos\Arrays - Exercises\09. Index of Letters\obj\Debug\netcoreapp2.0\09. Index of Letters.pdb
+c:\users\kati\source\repos\Arrays - Exercises\09. Index of Letters\obj\Debug\netcoreapp2.0\09. Index of Letters.csprojResolveAssemblyReference.cache

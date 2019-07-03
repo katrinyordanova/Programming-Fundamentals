@@ -1,0 +1,11 @@
+c:\users\kati\source\repos\More Exercises-Strings and Regular\02. Email me\bin\Debug\netcoreapp2.0\02. Email me.deps.json
+c:\users\kati\source\repos\More Exercises-Strings and Regular\02. Email me\bin\Debug\netcoreapp2.0\02. Email me.runtimeconfig.json
+c:\users\kati\source\repos\More Exercises-Strings and Regular\02. Email me\bin\Debug\netcoreapp2.0\02. Email me.runtimeconfig.dev.json
+c:\users\kati\source\repos\More Exercises-Strings and Regular\02. Email me\bin\Debug\netcoreapp2.0\02. Email me.dll
+c:\users\kati\source\repos\More Exercises-Strings and Regular\02. Email me\bin\Debug\netcoreapp2.0\02. Email me.pdb
+c:\users\kati\source\repos\More Exercises-Strings and Regular\02. Email me\obj\Debug\netcoreapp2.0\02. Email me.csprojResolveAssemblyReference.cache
+c:\users\kati\source\repos\More Exercises-Strings and Regular\02. Email me\obj\Debug\netcoreapp2.0\02. Email me.csproj.CoreCompileInputs.cache
+c:\users\kati\source\repos\More Exercises-Strings and Regular\02. Email me\obj\Debug\netcoreapp2.0\02. Email me.AssemblyInfoInputs.cache
+c:\users\kati\source\repos\More Exercises-Strings and Regular\02. Email me\obj\Debug\netcoreapp2.0\02. Email me.AssemblyInfo.cs
+c:\users\kati\source\repos\More Exercises-Strings and Regular\02. Email me\obj\Debug\netcoreapp2.0\02. Email me.dll
+c:\users\kati\source\repos\More Exercises-Strings and Regular\02. Email me\obj\Debug\netcoreapp2.0\02. Email me.pdb

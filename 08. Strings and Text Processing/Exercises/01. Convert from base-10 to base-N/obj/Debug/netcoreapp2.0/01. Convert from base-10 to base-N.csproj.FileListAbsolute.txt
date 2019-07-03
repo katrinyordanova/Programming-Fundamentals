@@ -1,0 +1,11 @@
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.deps.json
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.runtimeconfig.json
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.runtimeconfig.dev.json
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.dll
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.pdb
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.csprojResolveAssemblyReference.cache
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.csproj.CoreCompileInputs.cache
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.AssemblyInfoInputs.cache
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.AssemblyInfo.cs
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.dll
+c:\users\kati\source\repos\Strings and Text Processing - Exercises\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.pdb

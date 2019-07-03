@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\bin\Debug\netcoreapp2.0\07. Andrey and Billiard.deps.json
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\bin\Debug\netcoreapp2.0\07. Andrey and Billiard.runtimeconfig.json
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\bin\Debug\netcoreapp2.0\07. Andrey and Billiard.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\bin\Debug\netcoreapp2.0\07. Andrey and Billiard.dll
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\bin\Debug\netcoreapp2.0\07. Andrey and Billiard.pdb
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp2.0\07. Andrey and Billiard.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp2.0\07. Andrey and Billiard.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp2.0\07. Andrey and Billiard.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp2.0\07. Andrey and Billiard.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp2.0\07. Andrey and Billiard.dll
+C:\Users\Kati\source\repos\Objects and Classes - Exercises\07. Andrey and Billiard\obj\Debug\netcoreapp2.0\07. Andrey and Billiard.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\01. Type Boundaries\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.deps.json
+C:\Users\Kati\source\repos\01. Type Boundaries\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Type Boundaries\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Type Boundaries\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.dll
+C:\Users\Kati\source\repos\01. Type Boundaries\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.pdb
+C:\Users\Kati\source\repos\01. Type Boundaries\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Type Boundaries\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Type Boundaries\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Type Boundaries\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.dll
+C:\Users\Kati\source\repos\01. Type Boundaries\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.pdb

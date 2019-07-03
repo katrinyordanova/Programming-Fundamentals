@@ -1,0 +1,11 @@
+c:\users\kati\source\repos\Arrays - Exercises\05. Compare Char Arrays\bin\Debug\netcoreapp2.0\05. Compare Char Arrays.deps.json
+c:\users\kati\source\repos\Arrays - Exercises\05. Compare Char Arrays\bin\Debug\netcoreapp2.0\05. Compare Char Arrays.runtimeconfig.json
+c:\users\kati\source\repos\Arrays - Exercises\05. Compare Char Arrays\bin\Debug\netcoreapp2.0\05. Compare Char Arrays.runtimeconfig.dev.json
+c:\users\kati\source\repos\Arrays - Exercises\05. Compare Char Arrays\bin\Debug\netcoreapp2.0\05. Compare Char Arrays.dll
+c:\users\kati\source\repos\Arrays - Exercises\05. Compare Char Arrays\bin\Debug\netcoreapp2.0\05. Compare Char Arrays.pdb
+c:\users\kati\source\repos\Arrays - Exercises\05. Compare Char Arrays\obj\Debug\netcoreapp2.0\05. Compare Char Arrays.csproj.CoreCompileInputs.cache
+c:\users\kati\source\repos\Arrays - Exercises\05. Compare Char Arrays\obj\Debug\netcoreapp2.0\05. Compare Char Arrays.AssemblyInfoInputs.cache
+c:\users\kati\source\repos\Arrays - Exercises\05. Compare Char Arrays\obj\Debug\netcoreapp2.0\05. Compare Char Arrays.AssemblyInfo.cs
+c:\users\kati\source\repos\Arrays - Exercises\05. Compare Char Arrays\obj\Debug\netcoreapp2.0\05. Compare Char Arrays.dll
+c:\users\kati\source\repos\Arrays - Exercises\05. Compare Char Arrays\obj\Debug\netcoreapp2.0\05. Compare Char Arrays.pdb
+c:\users\kati\source\repos\Arrays - Exercises\05. Compare Char Arrays\obj\Debug\netcoreapp2.0\05. Compare Char Arrays.csprojResolveAssemblyReference.cache

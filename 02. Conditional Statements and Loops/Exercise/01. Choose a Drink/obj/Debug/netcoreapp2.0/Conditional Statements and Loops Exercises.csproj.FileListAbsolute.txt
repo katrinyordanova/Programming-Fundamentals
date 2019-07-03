@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\Conditional Statements and Loops Exercises\bin\Debug\netcoreapp2.0\Conditional Statements and Loops Exercises.deps.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\Conditional Statements and Loops Exercises\bin\Debug\netcoreapp2.0\Conditional Statements and Loops Exercises.runtimeconfig.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\Conditional Statements and Loops Exercises\bin\Debug\netcoreapp2.0\Conditional Statements and Loops Exercises.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\Conditional Statements and Loops Exercises\bin\Debug\netcoreapp2.0\Conditional Statements and Loops Exercises.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\Conditional Statements and Loops Exercises\bin\Debug\netcoreapp2.0\Conditional Statements and Loops Exercises.pdb
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\Conditional Statements and Loops Exercises\obj\Debug\netcoreapp2.0\Conditional Statements and Loops Exercises.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\Conditional Statements and Loops Exercises\obj\Debug\netcoreapp2.0\Conditional Statements and Loops Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\Conditional Statements and Loops Exercises\obj\Debug\netcoreapp2.0\Conditional Statements and Loops Exercises.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\Conditional Statements and Loops Exercises\obj\Debug\netcoreapp2.0\Conditional Statements and Loops Exercises.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\Conditional Statements and Loops Exercises\obj\Debug\netcoreapp2.0\Conditional Statements and Loops Exercises.dll
+C:\Users\Kati\source\repos\Conditional Statements and Loops Exercises\Conditional Statements and Loops Exercises\obj\Debug\netcoreapp2.0\Conditional Statements and Loops Exercises.pdb

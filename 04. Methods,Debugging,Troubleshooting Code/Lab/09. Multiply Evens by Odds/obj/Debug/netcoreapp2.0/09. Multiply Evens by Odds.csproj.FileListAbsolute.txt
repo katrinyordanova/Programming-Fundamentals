@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\01. Blank Receipt\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.deps.json
+C:\Users\Kati\source\repos\01. Blank Receipt\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Blank Receipt\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Blank Receipt\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.dll
+C:\Users\Kati\source\repos\01. Blank Receipt\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.pdb
+C:\Users\Kati\source\repos\01. Blank Receipt\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\01. Blank Receipt\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Blank Receipt\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Blank Receipt\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Blank Receipt\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.dll
+C:\Users\Kati\source\repos\01. Blank Receipt\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.pdb

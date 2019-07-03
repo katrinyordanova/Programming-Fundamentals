@@ -1,0 +1,10 @@
+c:\users\kati\source\repos\Lists-Exercises\06. Sum Reversed Numbers\bin\Debug\netcoreapp2.0\06. Sum Reversed Numbers.deps.json
+c:\users\kati\source\repos\Lists-Exercises\06. Sum Reversed Numbers\bin\Debug\netcoreapp2.0\06. Sum Reversed Numbers.runtimeconfig.json
+c:\users\kati\source\repos\Lists-Exercises\06. Sum Reversed Numbers\bin\Debug\netcoreapp2.0\06. Sum Reversed Numbers.runtimeconfig.dev.json
+c:\users\kati\source\repos\Lists-Exercises\06. Sum Reversed Numbers\bin\Debug\netcoreapp2.0\06. Sum Reversed Numbers.dll
+c:\users\kati\source\repos\Lists-Exercises\06. Sum Reversed Numbers\bin\Debug\netcoreapp2.0\06. Sum Reversed Numbers.pdb
+c:\users\kati\source\repos\Lists-Exercises\06. Sum Reversed Numbers\obj\Debug\netcoreapp2.0\06. Sum Reversed Numbers.csproj.CoreCompileInputs.cache
+c:\users\kati\source\repos\Lists-Exercises\06. Sum Reversed Numbers\obj\Debug\netcoreapp2.0\06. Sum Reversed Numbers.AssemblyInfoInputs.cache
+c:\users\kati\source\repos\Lists-Exercises\06. Sum Reversed Numbers\obj\Debug\netcoreapp2.0\06. Sum Reversed Numbers.AssemblyInfo.cs
+c:\users\kati\source\repos\Lists-Exercises\06. Sum Reversed Numbers\obj\Debug\netcoreapp2.0\06. Sum Reversed Numbers.dll
+c:\users\kati\source\repos\Lists-Exercises\06. Sum Reversed Numbers\obj\Debug\netcoreapp2.0\06. Sum Reversed Numbers.pdb

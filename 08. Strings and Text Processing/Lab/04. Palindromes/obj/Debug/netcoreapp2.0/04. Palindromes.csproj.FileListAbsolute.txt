@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.deps.json
+C:\Users\Kati\source\repos\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.runtimeconfig.json
+C:\Users\Kati\source\repos\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.dll
+C:\Users\Kati\source\repos\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.pdb
+C:\Users\Kati\source\repos\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.dll
+C:\Users\Kati\source\repos\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.pdb

@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\Regular Expressions (RegEx) - Exercises\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.deps.json
+C:\Users\Kati\source\repos\Regular Expressions (RegEx) - Exercises\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.runtimeconfig.json
+C:\Users\Kati\source\repos\Regular Expressions (RegEx) - Exercises\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Regular Expressions (RegEx) - Exercises\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.dll
+C:\Users\Kati\source\repos\Regular Expressions (RegEx) - Exercises\01. Extract Emails\bin\Debug\netcoreapp2.0\01. Extract Emails.pdb
+C:\Users\Kati\source\repos\Regular Expressions (RegEx) - Exercises\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\Regular Expressions (RegEx) - Exercises\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Regular Expressions (RegEx) - Exercises\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Regular Expressions (RegEx) - Exercises\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Regular Expressions (RegEx) - Exercises\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.dll
+C:\Users\Kati\source\repos\Regular Expressions (RegEx) - Exercises\01. Extract Emails\obj\Debug\netcoreapp2.0\01. Extract Emails.pdb

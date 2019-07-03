@@ -1,0 +1,11 @@
+c:\users\kati\source\repos\Lists-Exercises\01. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\01. Max Sequence of Equal Elements.deps.json
+c:\users\kati\source\repos\Lists-Exercises\01. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\01. Max Sequence of Equal Elements.runtimeconfig.json
+c:\users\kati\source\repos\Lists-Exercises\01. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\01. Max Sequence of Equal Elements.runtimeconfig.dev.json
+c:\users\kati\source\repos\Lists-Exercises\01. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\01. Max Sequence of Equal Elements.dll
+c:\users\kati\source\repos\Lists-Exercises\01. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\01. Max Sequence of Equal Elements.pdb
+c:\users\kati\source\repos\Lists-Exercises\01. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\01. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+c:\users\kati\source\repos\Lists-Exercises\01. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\01. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+c:\users\kati\source\repos\Lists-Exercises\01. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\01. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+c:\users\kati\source\repos\Lists-Exercises\01. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\01. Max Sequence of Equal Elements.AssemblyInfo.cs
+c:\users\kati\source\repos\Lists-Exercises\01. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\01. Max Sequence of Equal Elements.dll
+c:\users\kati\source\repos\Lists-Exercises\01. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\01. Max Sequence of Equal Elements.pdb

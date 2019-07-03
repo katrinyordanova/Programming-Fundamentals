@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\Intro and Basic Syntax\03.Employee Data\bin\Debug\netcoreapp2.0\03.Employee Data.deps.json
+C:\Users\Kati\source\repos\Intro and Basic Syntax\03.Employee Data\bin\Debug\netcoreapp2.0\03.Employee Data.runtimeconfig.json
+C:\Users\Kati\source\repos\Intro and Basic Syntax\03.Employee Data\bin\Debug\netcoreapp2.0\03.Employee Data.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Intro and Basic Syntax\03.Employee Data\bin\Debug\netcoreapp2.0\03.Employee Data.dll
+C:\Users\Kati\source\repos\Intro and Basic Syntax\03.Employee Data\bin\Debug\netcoreapp2.0\03.Employee Data.pdb
+C:\Users\Kati\source\repos\Intro and Basic Syntax\03.Employee Data\obj\Debug\netcoreapp2.0\03.Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Intro and Basic Syntax\03.Employee Data\obj\Debug\netcoreapp2.0\03.Employee Data.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Intro and Basic Syntax\03.Employee Data\obj\Debug\netcoreapp2.0\03.Employee Data.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Intro and Basic Syntax\03.Employee Data\obj\Debug\netcoreapp2.0\03.Employee Data.dll
+C:\Users\Kati\source\repos\Intro and Basic Syntax\03.Employee Data\obj\Debug\netcoreapp2.0\03.Employee Data.pdb

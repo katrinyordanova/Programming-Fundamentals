@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\01. Practice Integers\16. Comparing floats\bin\Debug\netcoreapp2.0\16. Comparing floats.deps.json
+C:\Users\Kati\source\repos\01. Practice Integers\16. Comparing floats\bin\Debug\netcoreapp2.0\16. Comparing floats.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Practice Integers\16. Comparing floats\bin\Debug\netcoreapp2.0\16. Comparing floats.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Practice Integers\16. Comparing floats\bin\Debug\netcoreapp2.0\16. Comparing floats.dll
+C:\Users\Kati\source\repos\01. Practice Integers\16. Comparing floats\bin\Debug\netcoreapp2.0\16. Comparing floats.pdb
+C:\Users\Kati\source\repos\01. Practice Integers\16. Comparing floats\obj\Debug\netcoreapp2.0\16. Comparing floats.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\01. Practice Integers\16. Comparing floats\obj\Debug\netcoreapp2.0\16. Comparing floats.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\16. Comparing floats\obj\Debug\netcoreapp2.0\16. Comparing floats.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Practice Integers\16. Comparing floats\obj\Debug\netcoreapp2.0\16. Comparing floats.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Practice Integers\16. Comparing floats\obj\Debug\netcoreapp2.0\16. Comparing floats.dll
+C:\Users\Kati\source\repos\01. Practice Integers\16. Comparing floats\obj\Debug\netcoreapp2.0\16. Comparing floats.pdb

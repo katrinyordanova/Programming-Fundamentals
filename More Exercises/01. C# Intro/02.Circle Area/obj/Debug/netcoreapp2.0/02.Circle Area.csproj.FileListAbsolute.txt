@@ -1,0 +1,10 @@
+C:\Users\Kati\source\repos\Intro More Exercises\02.Circle Area\bin\Debug\netcoreapp2.0\02.Circle Area.deps.json
+C:\Users\Kati\source\repos\Intro More Exercises\02.Circle Area\bin\Debug\netcoreapp2.0\02.Circle Area.runtimeconfig.json
+C:\Users\Kati\source\repos\Intro More Exercises\02.Circle Area\bin\Debug\netcoreapp2.0\02.Circle Area.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\Intro More Exercises\02.Circle Area\bin\Debug\netcoreapp2.0\02.Circle Area.dll
+C:\Users\Kati\source\repos\Intro More Exercises\02.Circle Area\bin\Debug\netcoreapp2.0\02.Circle Area.pdb
+C:\Users\Kati\source\repos\Intro More Exercises\02.Circle Area\obj\Debug\netcoreapp2.0\02.Circle Area.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\Intro More Exercises\02.Circle Area\obj\Debug\netcoreapp2.0\02.Circle Area.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\Intro More Exercises\02.Circle Area\obj\Debug\netcoreapp2.0\02.Circle Area.AssemblyInfo.cs
+C:\Users\Kati\source\repos\Intro More Exercises\02.Circle Area\obj\Debug\netcoreapp2.0\02.Circle Area.dll
+C:\Users\Kati\source\repos\Intro More Exercises\02.Circle Area\obj\Debug\netcoreapp2.0\02.Circle Area.pdb

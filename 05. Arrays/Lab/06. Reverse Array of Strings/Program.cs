@@ -1,0 +1,24 @@
+﻿using System;
+using System.Linq;
+
+namespace _06._Reverse_Array_of_Strings
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] letters = Console.ReadLine().Split(' ').ToArray();
+
+            for (int i = letters.Length - 1; i >= 0; i--)
+            {
+                Console.Write(letters[i] + " ");
+            }
+
+            //or
+            //string[] letters = Console.ReadLine().Split(' ').ToArray();
+
+            //Console.Write(string.Join(" ",letters.Reverse()));
+
+        }
+    }
+}

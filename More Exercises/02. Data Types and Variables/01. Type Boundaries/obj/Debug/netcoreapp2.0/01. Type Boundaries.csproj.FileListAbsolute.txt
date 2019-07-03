@@ -1,0 +1,11 @@
+C:\Users\Kati\source\repos\01. Type Boundaries\Data Types and Variables - More Exercises\bin\Debug\netcoreapp2.0\01. Type Boundaries.deps.json
+C:\Users\Kati\source\repos\01. Type Boundaries\Data Types and Variables - More Exercises\bin\Debug\netcoreapp2.0\01. Type Boundaries.runtimeconfig.json
+C:\Users\Kati\source\repos\01. Type Boundaries\Data Types and Variables - More Exercises\bin\Debug\netcoreapp2.0\01. Type Boundaries.runtimeconfig.dev.json
+C:\Users\Kati\source\repos\01. Type Boundaries\Data Types and Variables - More Exercises\bin\Debug\netcoreapp2.0\01. Type Boundaries.dll
+C:\Users\Kati\source\repos\01. Type Boundaries\Data Types and Variables - More Exercises\bin\Debug\netcoreapp2.0\01. Type Boundaries.pdb
+C:\Users\Kati\source\repos\01. Type Boundaries\Data Types and Variables - More Exercises\obj\Debug\netcoreapp2.0\01. Type Boundaries.csprojResolveAssemblyReference.cache
+C:\Users\Kati\source\repos\01. Type Boundaries\Data Types and Variables - More Exercises\obj\Debug\netcoreapp2.0\01. Type Boundaries.csproj.CoreCompileInputs.cache
+C:\Users\Kati\source\repos\01. Type Boundaries\Data Types and Variables - More Exercises\obj\Debug\netcoreapp2.0\01. Type Boundaries.AssemblyInfoInputs.cache
+C:\Users\Kati\source\repos\01. Type Boundaries\Data Types and Variables - More Exercises\obj\Debug\netcoreapp2.0\01. Type Boundaries.AssemblyInfo.cs
+C:\Users\Kati\source\repos\01. Type Boundaries\Data Types and Variables - More Exercises\obj\Debug\netcoreapp2.0\01. Type Boundaries.dll
+C:\Users\Kati\source\repos\01. Type Boundaries\Data Types and Variables - More Exercises\obj\Debug\netcoreapp2.0\01. Type Boundaries.pdb
